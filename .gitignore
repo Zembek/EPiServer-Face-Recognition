@@ -9,3 +9,4 @@ Interface.Web/App_Data/
 Interface.Web/bin/
 Interface.Web/obj/
 packages/
+*.user
